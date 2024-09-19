@@ -1,6 +1,5 @@
 # Javascript-Manipulation-Practice
 Practice project to increase your skills working with arrays, objects, and arrays of objects
-# JS-array-object-manipulation-practice
 
 ---
 
